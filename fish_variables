@@ -2,7 +2,7 @@
 # VERSION: 3.0
 SETUVAR --export EDITOR:/usr/local/bin/micro
 SETUVAR --export LANG:en_US\x2eUTF\x2d8
-SETUVAR --export LC_ALL:en_US\x2eutf8
+SETUVAR --export LC_ALL:en_US
 SETUVAR __fish_initialized:3100
 SETUVAR fish_color_autosuggestion:4c566a
 SETUVAR fish_color_cancel:\x2dr
